@@ -5,15 +5,14 @@ permalink: /privacy/
 
 # Your Friend, Gita: Privacy Policy
 
-_Last updated: November 22, 2026._
+_Last updated: November 24, 2026._
 
 ## The short version
 
-- Gita is an AI, not a person. To reply, your messages are sent to an AI model provider (Anthropic). Nobody at Your Friend, Gita reads your conversations.
+- To reply, your messages are sent to an AI model provider (Anthropic). Nobody at Your Friend, Gita reads your conversations.
 - We don't sell your data, we don't show ads, and we don't use your conversations to train AI models. Anthropic's commercial terms don't allow it to train on them either.
 - Your chats are saved on our servers, encrypted, so you can come back to them. You can turn saving off or delete your chats at any time in the app's Settings.
-- You don't need to give us your name, email or phone number to use Gita.
-- Gita is for adults (18+).
+- You don't need to give us your name, email or phone number to use Gita. If you join the waitlist on our website, we keep your email so we can write to you about the launch.
 - Subscriptions are handled by Apple. We never see your card or payment details.
 
 ## Who we are
@@ -41,14 +40,22 @@ Your Friend, Gita is run by Iris Fu, Stanford, California, United States. Contac
 - **Your practice log** (unless you turn saving off): which days you meditated or finished the quiz, and for how many minutes. Counts only, tied to your anonymous account ID, so your streak and progress survive a new phone.
 - A daily count of how many messages and minutes of voice each anonymous account used, and our total daily AI cost, so we can see what running Gita costs.
 
+**If you join the waitlist on our website:**
+- **What we keep:** your email, your phone type and your reason for joining if you choose them, the site or link that brought you to us, and the date. Joining is optional and you don't need the app to do it.
+- **Why:** to email you about the app's launch and our Kickstarter. We don't use it for anything else.
+- **How long:** until you ask us to remove you, at iristfu@gmail.com.
+- **Separate from the app:** we don't link it to your anonymous account ID or to anything you do in the app.
+- **Your IP address** is checked briefly in our server's memory to stop repeated sign-ups. We don't save it with your sign-up.
+
 ## Who processes your data for us
 
 - **Anthropic** (AI model provider, USA) receives your messages to generate Gita's replies, under its commercial terms. Anthropic automatically deletes API inputs and outputs from its systems within 30 days, except where longer storage is needed to enforce its usage policy or is required by law. See [Anthropic's retention policy](https://privacy.claude.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data).
-- **Supabase** (database and server hosting, United States, Oregon region) runs our servers and stores your saved chats (encrypted) and the counts above.
+- **Supabase** (database and server hosting, United States, Oregon region) runs our servers and stores your saved chats (encrypted), the counts above and the waitlist.
 - **Deepgram** (speech-to-text, USA), with **Sarvam AI** (India) as a backup, turns your voice recordings into text when you use voice.
 - **ElevenLabs** and **Cartesia** (text-to-speech, USA) turn Gita's replies into spoken audio. They receive the reply text only.
 - **Apple** (App Store) handles subscriptions and payment, and distribution. Apple may share crash reports or feedback you choose to send.
 - **RevenueCat** (subscription management, USA) receives your purchase history from Apple and a random ID made by the app, so the app knows whether your trial or plan is active. It doesn't receive your name, email, messages or payment details.
+- **GitHub** (website hosting, USA) and **Google Fonts** (USA) serve our website and its fonts, so they receive your IP address and basic browser details when you visit it.
 
 We don't share your data with anyone else except when required by law.
 
@@ -63,13 +70,14 @@ Gita is not an emergency service and not a doctor. If you're in danger, call you
 ## Your choices and rights
 
 - **Delete your data:** you can delete any chat, or all of them, in the app. Deleting the app removes everything stored on your phone, but not your saved chats: delete them in the app first, or email iristfu@gmail.com to have your chats, practice log and the usage counts tied to your account deleted. Deleting the app doesn't cancel a subscription; cancel it in your Apple account.
+- **Leave the waitlist:** email iristfu@gmail.com and we'll delete your sign-up.
 - **Access and correction:** you can ask what we hold about you, and to correct or erase it, at iristfu@gmail.com. We'll reply within 30 days.
-- **India (Digital Personal Data Protection Act, 2023):** by using Gita you consent to the processing described here for these purposes only. You can withdraw consent at any time by deleting the app and asking us to erase your data. You can raise a grievance with our grievance officer at iristfu@gmail.com; if you're not satisfied, you can complain to the Data Protection Board of India.
+- **India (Digital Personal Data Protection Act, 2023):** by using Gita you consent to the processing described here for these purposes only. You can withdraw consent at any time by deleting the app and asking us to erase your data, or by asking us to remove you from the waitlist. You can raise a grievance with our grievance officer at iristfu@gmail.com; if you're not satisfied, you can complain to the Data Protection Board of India.
 - **US:** we don't sell or "share" personal information for advertising. Residents of states with privacy laws (such as California) can make the requests above at iristfu@gmail.com; we won't treat you differently for doing so.
 
 ## Children
 
-Gita is for adults 18 and over. If we learn that someone under 18 has used Gita, we'll delete anything we hold about them. Parents can contact iristfu@gmail.com.
+Parents can contact iristfu@gmail.com about a child's data, and we'll delete anything we hold about them.
 
 ## Security
 
