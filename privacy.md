@@ -25,6 +25,7 @@ Your Friend, Gita is run by Iris Fu, Stanford, California, United States. Contac
 - Your settings: your reply language, Gita's voice, how Gita talks to you, and whether you've finished the intro.
 - What you picked as your goal in the intro, your daily quiz answers, and your reminder time.
 - Whether you've turned saving chats off.
+- **Apple Health** (only the parts you turn on in Settings): Gita can save your meditations and how you feel before and after, and can read your sleep, heart rate, heart rate variability and meditations from other apps. What it reads is used on your phone to suggest a meditation, time your daily note and show you your own patterns. It's never sent to us or to anyone else, and never used for ads or to train AI. Minutes you meditate in Gita are still part of your practice log (below), whether or not Apple Health is on. You can turn each part off in Settings, or take away access in the Health app.
 - A list of your saved chats' titles (the first words of each chat) and when each was last used, so the chats menu opens instantly. The messages themselves aren't kept on your phone. Deleting a chat, deleting all your chats, or deleting the app removes them.
 
 **Sent to our servers when you chat:**
