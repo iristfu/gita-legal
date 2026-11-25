@@ -6,4 +6,4 @@ title: Your Friend, Gita
 
 - [Privacy Policy](privacy/)
 
-Contact: iristfu@gmail.com
+Contact: hello@yourfriendgita.com

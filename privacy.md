@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Your Friend, Gita: Privacy Policy
 
-_Last updated: November 24, 2026._
+_Last updated: November 25, 2026._
 
 ## The short version
 
@@ -17,7 +17,7 @@ _Last updated: November 24, 2026._
 
 ## Who we are
 
-Your Friend, Gita is run by Iris Fu, Stanford, California, United States. Contact: iristfu@gmail.com. For India, our grievance officer is Iris Fu (iristfu@gmail.com).
+Your Friend, Gita is run by Iris Fu, Stanford, California, United States. Contact: hello@yourfriendgita.com. For India, our grievance officer is Iris Fu (hello@yourfriendgita.com).
 
 ## What we collect, and why
 
@@ -43,7 +43,7 @@ Your Friend, Gita is run by Iris Fu, Stanford, California, United States. Contac
 **If you join the waitlist on our website:**
 - **What we keep:** your email, your phone type and your reason for joining if you choose them, the site or link that brought you to us, and the date. Joining is optional and you don't need the app to do it.
 - **Why:** to email you about the app's launch and our Kickstarter. We don't use it for anything else.
-- **How long:** until you ask us to remove you, at iristfu@gmail.com.
+- **How long:** until you ask us to remove you, at hello@yourfriendgita.com.
 - **Separate from the app:** we don't link it to your anonymous account ID or to anything you do in the app.
 - **Your IP address** is checked briefly in our server's memory to stop repeated sign-ups. We don't save it with your sign-up.
 
@@ -69,15 +69,15 @@ Gita is not an emergency service and not a doctor. If you're in danger, call you
 
 ## Your choices and rights
 
-- **Delete your data:** you can delete any chat, or all of them, in the app. Deleting the app removes everything stored on your phone, but not your saved chats: delete them in the app first, or email iristfu@gmail.com to have your chats, practice log and the usage counts tied to your account deleted. Deleting the app doesn't cancel a subscription; cancel it in your Apple account.
-- **Leave the waitlist:** email iristfu@gmail.com and we'll delete your sign-up.
-- **Access and correction:** you can ask what we hold about you, and to correct or erase it, at iristfu@gmail.com. We'll reply within 30 days.
-- **India (Digital Personal Data Protection Act, 2023):** by using Gita you consent to the processing described here for these purposes only. You can withdraw consent at any time by deleting the app and asking us to erase your data, or by asking us to remove you from the waitlist. You can raise a grievance with our grievance officer at iristfu@gmail.com; if you're not satisfied, you can complain to the Data Protection Board of India.
-- **US:** we don't sell or "share" personal information for advertising. Residents of states with privacy laws (such as California) can make the requests above at iristfu@gmail.com; we won't treat you differently for doing so.
+- **Delete your data:** you can delete any chat, or all of them, in the app. Deleting the app removes everything stored on your phone, but not your saved chats: delete them in the app first, or email hello@yourfriendgita.com to have your chats, practice log and the usage counts tied to your account deleted. Deleting the app doesn't cancel a subscription; cancel it in your Apple account.
+- **Leave the waitlist:** email hello@yourfriendgita.com and we'll delete your sign-up.
+- **Access and correction:** you can ask what we hold about you, and to correct or erase it, at hello@yourfriendgita.com. We'll reply within 30 days.
+- **India (Digital Personal Data Protection Act, 2023):** by using Gita you consent to the processing described here for these purposes only. You can withdraw consent at any time by deleting the app and asking us to erase your data, or by asking us to remove you from the waitlist. You can raise a grievance with our grievance officer at hello@yourfriendgita.com; if you're not satisfied, you can complain to the Data Protection Board of India.
+- **US:** we don't sell or "share" personal information for advertising. Residents of states with privacy laws (such as California) can make the requests above at hello@yourfriendgita.com; we won't treat you differently for doing so.
 
 ## Children
 
-Parents can contact iristfu@gmail.com about a child's data, and we'll delete anything we hold about them.
+Parents can contact hello@yourfriendgita.com about a child's data, and we'll delete anything we hold about them.
 
 ## Security
 
